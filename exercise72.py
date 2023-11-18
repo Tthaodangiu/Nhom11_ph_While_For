@@ -1,4 +1,3 @@
-#Tìm từ đối xứng
 word = input('Enter a word: ')
 
 n = len(word)
