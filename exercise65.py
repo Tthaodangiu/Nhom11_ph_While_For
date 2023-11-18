@@ -1,4 +1,3 @@
-#Tính đa giác vecto
 import math
 sum = 0
 x = str(input("Enter the x part of the coordinate: (blank to quit): "))
