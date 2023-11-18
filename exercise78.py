@@ -1,4 +1,3 @@
-#Đổi từ thập phân qua nhị phân
 decimal = int(input("Enter a decimal (base 10)   "))
 result = ""
 
