@@ -1,4 +1,3 @@
-#Đổi từ nhị phân qua thập phân
 bi=str(input("Enter a binary (base 2):"))
 n=len(bi) - 1
 dec=0
